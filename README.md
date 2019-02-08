@@ -1,2 +1,2 @@
 # vip
-A vim like CLI editor in Python
+A vim like CUI editor in Python
